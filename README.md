@@ -19,3 +19,4 @@ Top view - \
 Bottom view -  \
 ![image](https://raw.githubusercontent.com/SeryDesigns/Boost-converter/main/docs/BOTTOM.png)
 
+[Link to a time lapse video showing the design process](https://www.youtube.com/watch?v=zZR8q_p8QZo)
