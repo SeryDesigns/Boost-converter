@@ -19,4 +19,6 @@ Top view - \
 Bottom view -  \
 ![image](https://raw.githubusercontent.com/SeryDesigns/Boost-converter/main/docs/BOTTOM.png)
 
-[Link to a time lapse video showing the design process](https://www.youtube.com/watch?v=zZR8q_p8QZo)
+I've created a short time lapse video of the design process, you can click the link below to check it out on my YouTube channel \
+[![Boost converter PCB design in 5 minutes (time lapse)](https://img.youtube.com/vi/zZR8q_p8QZo/hqdefault.jpg)](https://youtu.be/zZR8q_p8QZo)
+
